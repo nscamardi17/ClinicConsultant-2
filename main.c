@@ -1,4 +1,4 @@
-/* Authors: Nick Scamardi
+/* Author: Nick Scamardi
  * Written: March 20, 2020
  * Last Update: April 5, 2020
  */
